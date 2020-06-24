@@ -1,0 +1,21 @@
+{
+  "name": "firebase-auth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "cookieparser": "^0.1.0",
+    "firebase": "^7.15.3",
+    "js-cookie": "^2.2.1",
+    "jwt-decode": "^2.2.0",
+    "nuxt": "^2.13.0"
+  },
+  "devDependencies": {}
+}
